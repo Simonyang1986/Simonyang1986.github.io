@@ -1,0 +1,6 @@
+---
+published: true
+title: hello
+layout: post
+---
+为什么佛陀对菩提心那么看重，为什么常常强调菩提心？
