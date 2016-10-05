@@ -3,7 +3,7 @@ published: true
 title: 原创首发：晚饭后的劫难 
 layout: post
 ---
-< img src="https://github.com/Simonyang1986/alwaysthetruth/blob/master/pic201610/2c_t.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
+<img src="https://github.com/Simonyang1986/alwaysthetruth/blob/master/pic201610/2c_t.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
 
 在一片白茫茫的雪地上，远远看去有几堆儿呈黑褐色像偶尔遗泻下的牛粪似的草屋，其中最大的一堆儿里闪出电灯的光亮。
 
